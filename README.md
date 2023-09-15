@@ -66,8 +66,12 @@ I’m a data scientist with 5+ years of experience using python and matlab, with
 ## GitHub Stats
 
 <div align="center">
-<a href="https://github.com/Mysftz"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a>
-</div>
+<a href="https://github.com/Mysftz">
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mysftz&theme=dark&hide_border=true&layout" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165px" src="https://github-contributor-stats.vercel.app/api?username=Mysftz&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" />
+</a></div>
 
 <!-- OTHER PROJECTS --> 
 ## My Projects
