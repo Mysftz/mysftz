@@ -6,6 +6,9 @@
 <a href="https://github.com/Mysftz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href=" " target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/Mysftz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -62,7 +65,7 @@ I’m a data scientist with 5+ years of experience using python and matlab, with
 
 ## GitHub Stats
 
-<a href="https://github.com/Mysftz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysftz&hide=html&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a>
+<a href="https://github.com/Mysftz"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysftz&hide=html&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a>
 
 <!-- OTHER PROJECTS --> 
 ## My Projects
@@ -83,5 +86,5 @@ Distributed under the CC-BY-SA-4.0: Creative Commons Attribution Share Alike 4.0
 ## Contact
 <div align="center">
 
-> GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
+GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website]( ) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
 </div>
