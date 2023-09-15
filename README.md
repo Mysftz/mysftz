@@ -67,8 +67,7 @@ I’m a data scientist with 5+ years of experience using python and matlab, with
 
 <div align="center">
 <a href="https://github.com/Mysftz">
-<img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mysftz&theme=dark&hide_border=true&layout" />
-
+<!-- <img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mysftz&theme=dark&hide_border=true&layout" /> -->
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysftz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a></div>
