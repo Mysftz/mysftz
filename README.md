@@ -6,7 +6,7 @@
 <a href="https://github.com/Mysftz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://mysftz.github.io/portfolio" target="_blank">
+<a href="https://mysftz.github.io" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/Mysftz" target="_blank">
@@ -91,5 +91,5 @@ Distributed under the CC-BY-SA-4.0: Creative Commons Attribution Share Alike 4.0
 ## Contact
 <div align="center">
 
-GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website](https://mysftz.github.io/portfolio) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
+GitHub: [@Mysftz](https://github.com/Mysftz) &nbsp;&middot;&nbsp; Portfolio: [Website](https://mysftz.github.io) &nbsp;&middot;&nbsp; LinkedIn: [@lrgtomaszewski](https://www.linkedin.com/in/lrgtomaszewski/) &nbsp;&middot;&nbsp; Instagram: [@Mysftz](https://www.instagram.com/mysftz/) &nbsp;&middot;&nbsp; Twitter: [@MysftzUK](https://twitter.com/MysftzUK)
 </div>
